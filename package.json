@@ -67,7 +67,7 @@
     "polymer-cli": "^1.8.0",
     "polyserve": "^0.27.12",
     "prpl-server": "^1.2.0",
-    "puppeteer": "^1.8.0",
+    "puppeteer": "^1.11.0",
     "wct-browser-legacy": "^1.0.1"
   }
 }
