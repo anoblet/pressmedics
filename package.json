@@ -55,7 +55,7 @@
     "polymer-cli": "^1.9.6",
     "polyserve": "^0.27.14",
     "prpl-server": "^1.4.0",
-    "puppeteer": "^1.14.0",
+    "puppeteer": "^1.16.0",
     "rimraf": "^2.6.3",
     "rollup": "^1.7.4",
     "rollup-plugin-babel": "^4.3.2",
